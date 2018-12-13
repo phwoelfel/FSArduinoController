@@ -1,0 +1,47 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="003E" vendorId="2341" />
+    <productName vendorId="2341">
+        <keyword text="arduino" />
+        <keyword text="due" />
+    </productName>
+    <category>farmSidePanel</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="0" label="1" />
+        <buttonMapping physical="1" logical="1" label="2" />
+        <buttonMapping physical="2" logical="2" label="3" />
+        <buttonMapping physical="3" logical="3" label="4" />
+        <buttonMapping physical="4" logical="4" label="5"/>
+        <buttonMapping physical="5" logical="5" label="6" />
+        <buttonMapping physical="6" logical="6" label="7" />
+        <buttonMapping physical="7" logical="7" label="8" />
+        <buttonMapping physical="8" logical="8" label="9" />
+        <buttonMapping physical="9" logical="9" label="10" />
+        <buttonMapping physical="10" logical="10" label="11" />
+        <buttonMapping physical="11" logical="11" label="12" />
+        <buttonMapping physical="12" logical="12" label="13" />
+        <buttonMapping physical="13" logical="13" label="14" />
+        <buttonMapping physical="14" logical="14" label="15"/>
+        <buttonMapping physical="15" logical="15" label="16" />
+        <buttonMapping physical="16" logical="16" label="17" />
+        <buttonMapping physical="17" logical="17" label="18" />
+        <buttonMapping physical="18" logical="18" label="19" />
+        <buttonMapping physical="19" logical="19" label="20" />
+        <buttonMapping physical="20" logical="20" label="21" />
+        <buttonMapping physical="21" logical="21" label="22" />
+        <buttonMapping physical="22" logical="22" label="23" />
+        <buttonMapping physical="23" logical="23" label="24" />
+        <buttonMapping physical="24" logical="24" label="25"/>
+        <buttonMapping physical="25" logical="25" label="26" />
+        <buttonMapping physical="26" logical="26" label="27" />
+        <buttonMapping physical="27" logical="27" label="28" />
+        <buttonMapping physical="28" logical="28" label="29" />
+        <buttonMapping physical="29" logical="29" label="30" />
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="S1-X" />
+        <axisMapping physical="Y" logical="1" scale="1" offset="0" label="S1-Y" />
+        <axisMapping physical="RX" logical="4" scale="1" offset="0" label="S2-X" />
+        <axisMapping physical="RY" logical="5" scale="1" offset="0" label="S2-Y" />
+
+    </axisMappings>
+</deviceMapping>
