@@ -1,0 +1,13 @@
+Controller Shopping list
+
+Small Pushbuttons: https://www.aliexpress.com/item/Hzy-10pcs-lot-Red-Green-Yellow-black-white-Blue-12MM-Self-Return-Momentary-Push-Button-Switch/32878252417.html?spm=a2g0s.9042311.0.0.44574c4dmL6pbA
+LED Puhsbuttons: https://www.aliexpress.com/item/Hzy-16mm-Self-locking-push-button-switch-with-LED-ON-OFF-blue-Green-Red-Yellow-with/32881767084.html?spm=a2g0s.9042311.0.0.44574c4dmL6pbA
+more buttons: https://hzy2131209.aliexpress.com/store/group/Button-switch/2131209_513106368.html?spm=a2g1y.12024536.pcShopHead_11513649.1_0_0
+
+Arduino Due: https://www.aliexpress.com/item/Black-Due-R3-Board-DUE-CH340-ATSAM3X8E-ARM-Main-Control-Board-with-50cm-USB-Cable-CH340G/32853462985.html?spm=a2g0s.9042311.0.0.44574c4dmL6pbA
+Kippschalter mit Deckel: https://www.aliexpress.com/item/BMBY-DC-12V-On-Off-Racing-Car-Illuminated-Toggle-Switch-Red-Cover/32831285466.html?spm=a2g0s.9042311.0.0.44574c4dmL6pbA
+Key Switch: https://www.aliexpress.com/item/On-Off-On-Three-3-Position-Rotary-Selector-Key-Lock-Switch-10A-380V-AC/32831793711.html?spm=a2g0s.9042311.0.0.44574c4dmL6pbA
+Toggle Switch 2 Positions: https://www.aliexpress.com/item/AC-250V-10A-125V-15A-DPDT-3-Position-ON-OFF-ON-6-Pins-Toggle-Switch-Black/32832224247.html?spm=a2g0s.9042311.0.0.44574c4dmL6pbA
+Momentary Toggle Switch 2 Positions: https://www.aliexpress.com/item/AC-250V-15A-DPDT-On-Off-On-Momentary-Switch-with-Waterproof-Boot/32832472165.html?spm=a2g0s.9042311.0.0.44574c4dmL6pbA&af=Lgyz2r&cn=aliexpress&cv=banner&dp=19TZ1OysD1ZmMep&tp2=Lgyz2r&afref=rtbs24.com&mall_affr=pr3&af=Lgyz2r&cn=aliexpress&cv=banner&dp=19TZ1OysD1ZmMep&tp2=Lgyz2r&afref=rtbs24.com&aff_platform=link-c-tool&cpt=1544712273872&sk=cD4TW1tW&aff_trace_key=0cabd9aed979431ca4b711159ca22a52-1544712273872-06575-cD4TW1tW&terminal_id=3076852983104c018c7c3c796fe1b4cd
+
+Joysticks: https://www.aliexpress.com/item/1pc-4-Axis-Joystick-Potentiometer-Button-Black-For-JH-D400X-R4-10K-4D-with-Wire-49/32810843549.html?spm=a2g0s.9042311.0.0.3c464c4d1kRCrb
